@@ -1,3 +1,5 @@
+# DavidingPlus
+
 我的博客地址：[https://davidingplus.gitee.io](https://davidingplus.gitee.io)
 
 这里是`lzx0626`的`GitHub`，主要用来记录学习过程中的感悟和收获，可以交流学习。
@@ -6,5 +8,5 @@
 
 哦对了，我不玩原神。喜欢篮球，喜欢老詹。欢迎和我交朋友，一起学习和进步！~~南通别来~~。
 
-<img src="https://img-blog.csdnimg.cn/1867f61e47c447b681b9e4f1f92d105c.png" alt="favorite picture" style="zoom: 80%;" />
+<img src="https://img-blog.csdnimg.cn/1867f61e47c447b681b9e4f1f92d105c.png" style="zoom: 80%;" />
 
