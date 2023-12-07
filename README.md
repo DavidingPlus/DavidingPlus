@@ -1,6 +1,6 @@
 # DavidingPlus
 
-我的博客地址：[https://davidingplus.gitee.io](https://davidingplus.gitee.io)
+我的博客地址：[https://lzx0626.me](https://lzx0626.me)
 
 这里是`lzx0626`的`GitHub`，主要用来记录学习过程中的感悟和收获，可以交流学习。
 
