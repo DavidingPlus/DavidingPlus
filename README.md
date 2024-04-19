@@ -12,5 +12,5 @@
 
 <img src="https://img-blog.csdnimg.cn/1867f61e47c447b681b9e4f1f92d105c.png" style="zoom: 80%;" />
 
-![亮色](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/github-contribution-grid-snake-dark.svg)
 
