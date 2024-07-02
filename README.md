@@ -1,6 +1,6 @@
 # DavidingPlus
 
-我的博客地址：[https://lzx0626.me](https://lzx0626.me)
+我的个人站点的主页地址：[https://lzx0626.me](https://lzx0626.me)
 
 这里是`DavidingPlus`的`GitHub`，主要用来记录学习过程中的感悟和收获，可以交流学习。
 
