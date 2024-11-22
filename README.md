@@ -6,7 +6,7 @@ Hi, this is DavidingPlus, a Student 🔥 from China. I dream to be an Open Sourc
 - 🎒 an undergruate student from [uestc](https://www.uestc.edu.cn/)
 - 👯 futrue in uestc to get a master degree
 - 🏀 fitness & basketball, fan of [Lebron James](https://www.lebronjames.com/) and [Los Angeles Lakers](https://www.nba.com/lakers/)
-- ✉️ send me a mail: davidingplus@qq.com
+- ✉️ send me an email: davidingplus@qq.com
 - 🔎 my personal site: [https://davidingplus.cn/](https://davidingplus.cn/)
 
 
