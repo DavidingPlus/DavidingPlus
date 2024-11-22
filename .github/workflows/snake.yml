@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 12 hours
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 4 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -34,6 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}          
