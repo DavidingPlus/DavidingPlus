@@ -1,7 +1,9 @@
 # Hi there 👋
 
+Hi, this is DavidingPlus, a Student 🔥 from China. I dream to be an Open Source Developer 🚀. I love C & C++ forever ❤️.
+
 - 👶 I'm currently working on Operating System and learning Linux Kernel
-- 🎒 an undergruate student in [uestc](https://www.uestc.edu.cn/)
+- 🎒 an undergruate student from [uestc](https://www.uestc.edu.cn/)
 - 👯 futrue in uestc to get a master degree
 - 🏀 fitness & basketball, fan of [Lebron James](https://www.lebronjames.com/) and [Los Angeles Lakers](https://www.nba.com/lakers/)
 - ✉️ send me a mail: davidingplus@qq.com
