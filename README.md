@@ -16,5 +16,3 @@ Hi, this is DavidingPlus, a Student 🔥 from China. I dream to be an Open Sourc
 
 ![light](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=DavidingPlus&label=Profile%20Views&color=10&icon=4&pretty=true)
-
