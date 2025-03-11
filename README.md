@@ -12,7 +12,7 @@ Hi, this is DavidingPlus, a Student 🔥 from China. I dream to be an Open Sourc
 
 ![dark](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github.com/user-attachments/assets/a1020308-a355-4749-ab80-23f820b7ced9" style="zoom: 80%;" />
-
 ![light](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/user-attachments/assets/a1020308-a355-4749-ab80-23f820b7ced9" style="zoom: 80%;" />
 
