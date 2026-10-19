@@ -12,5 +12,5 @@ Hi, this is DavidingPlus, a Student 🔥 from China. I dream to be an Open Sourc
 | ![](https://github-readme-stats.vercel.app/api?username=DavidingPlus&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidingPlus&theme=blueberry) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[![DavidingPlus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidingPlus&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![DavidingPlus's github activity graph](https://raw.githubusercontent.com/DavidingPlus/DavidingPlus/output/activity-graph.svg)](https://github.com/maurodesouza/github-readme-activity-graph-action)
 
